@@ -1,0 +1,22 @@
+.header{
+    width:100%;
+    background-color: black;
+    text-align: center;
+}
+.navbar-brand{
+    font-size:100px;
+    font-weight: bold;
+    color:black;
+    text-indent: 30px;
+}
+.nav-item{
+    font-weight: light;
+    color:black;
+    font-size:15px;
+    margin-left:10px;
+
+}
+.search{
+    width:20%;
+    margin-right:20px;
+}

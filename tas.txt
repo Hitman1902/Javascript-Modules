@@ -1,0 +1,8 @@
+Key component: Application server push notification service client device
+Example services Firebase cloud Messaging , Apple Push Notification service
+Use cases and benefits : Enhancing user engagement Driving Traffic and conversations Real-time updates
+Introduction to Push notification: Define how they work at a high level Importance and real-world examples
+Types of Push Notification : Web push Notification Mobile Push Notification Desktop Push Notification
+Challenges and Limitations : Device compatibility Network Issues User preferences
+Future trends : AI and machine learning for personalized notification Rich media in notifications cross-platform notifications
+conclusion :  
